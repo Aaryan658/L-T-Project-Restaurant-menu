@@ -62,7 +62,7 @@ Date: August 2025
 
 License
 -------
-Open source for educational and personal use. Attribution appreciated.
+Open source for educational and personal use.
 
 Acknowledgements
 ----------------
